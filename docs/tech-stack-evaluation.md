@@ -48,7 +48,7 @@ Weighted score = weight x score. Add them up for each option.
 ## Decision record
 
 * **Context:** I need to build a barber booking mobile app before my deadline, as a solo student with no budget for hosting.
-* **Decision:** Option C, a React Native (Expo) app with Firebase.
+* **Decision:** Not final yet. Option C (React Native with Expo and Firebase) is the leading option from the matrix, to be confirmed after my first prototype.
 * **Reasons:** 1. It scored highest in the matrix, 2. It uses JavaScript, which I already know from web development, so I should learn it faster than Dart., 3. Firebase gives login and a database without me building a backend, which saves time. I must check the current free plan before I rely on it.
 * **Consequences:** Easy: one codebase for Android and iOS, and I can test quickly on my own phone. Harder: if I later want custom backend logic, Firebase limits me and I would need to add a separate server.
 * **Risks and next review:** Firebase's free limits or pricing could change. What would change my decision: if my lecturer requires a native Android app, I would switch to Option B. I will review this once my first prototype is running.
